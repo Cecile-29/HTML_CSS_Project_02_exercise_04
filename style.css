@@ -1,0 +1,15 @@
+h1 {
+  font-size: 32px;
+  font-family: Helvetica;
+  color: orange;
+}
+#p1{
+  font-family: 'Pacifico', cursive;
+  font-size: 44px;
+  color: pink;
+}
+#p2{
+  font-family: Arial;
+  color: blue;
+  font-size: 36px;
+ }
